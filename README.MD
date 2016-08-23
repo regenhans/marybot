@@ -7,8 +7,8 @@ This is a simple yet powerful twitter bot to bother your pals.
 
 **To-do's:**
 
-[ ] Project spec
+- [ ] Project spec
 
-[ ] Background research on my friend's name.
+- [ ] Background research on my friend's name.
 
-[ ] Present the project on a JS conf
+- [ ] Present the project on a JS conf
